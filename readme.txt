@@ -7,3 +7,5 @@ Keep going.
 We are on the develop branch.
 
 Adding a new feature.
+
+And this feature
