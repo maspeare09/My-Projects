@@ -1,9 +1,5 @@
-No one ever reads the readme file.
+This is a new feature we are developing.
 
-Make sure you push this.
+I need to add this.
 
-Keep going.
-
-We are on the develop branch.
-
-Adding a new feature.
+Check this.
